@@ -1,5 +1,5 @@
-### Progi
-Programsko Inženjerstvo
+# Progi
+###Programsko Inženjerstvo
 
 ReadMe is used for
 - explanations on how to start or approach a project
